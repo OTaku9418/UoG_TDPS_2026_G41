@@ -26,6 +26,7 @@ TDPS_HAL_PID_IT
 ├── TDPS_HAL_PID_IT.ioc          CubeMX 工程文件
 ├── ProPrj_TDPS_Finished_2026-08-14.epro2  配套 PCB 转接板工程（嘉立创EDA专业版）
 ├── .mxproject   CubeMX 工程元数据
+├── L1b_Design-Tasks_An-Overview_2025-2026.pdf 2026年TDPS任务要求
 └── LICENSE      MIT 开源许可证
 ```
 
