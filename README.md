@@ -67,7 +67,6 @@ TDPS_HAL_PID_IT
 | OLED | `oled.c/h` | 0.96 寸 I2C OLED 显示驱动（字符/字符串显示、雷达波形绘制） |
 | 字库 | `oledfont.h` | OLED 显示用 ASCII 字模 |
 | 移植说明 | `README_电机驱动移植说明.md` | 电机驱动板移植说明 |
-| 备份 | `*.bkp` | 对应源文件的旧版备份，可忽略 |
 
 ### MDK-ARM/ — Keil 工程
 
