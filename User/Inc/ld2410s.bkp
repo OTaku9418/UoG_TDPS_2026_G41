@@ -1,0 +1,12 @@
+#ifndef __LD2410S_H
+#define __LD2410S_H
+
+#include "main.h"
+
+extern volatile uint16_t ld2410s_distance;
+
+void LD2410S_Init(void);
+void LD2410S_SoftRestart(void);
+void LD2410S_DebugEnergy(void);
+
+#endif

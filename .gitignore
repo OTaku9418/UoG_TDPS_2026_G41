@@ -1,0 +1,10 @@
+.vscode/
+
+# Keil MDK-ARM
+MDK-ARM/TDPS_HAL_PID_IT/
+MDK-ARM/RTE/
+MDK-ARM/DebugConfig/
+MDK-ARM/EventRecorderStub.scvd
+MDK-ARM/*.uvguix.*
+MDK-ARM/*.uvoptx
+MDK-ARM/*.lst
